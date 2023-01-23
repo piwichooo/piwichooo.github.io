@@ -1,0 +1,15 @@
+.marcador{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    background-color: rgb(13, 13, 156);
+    color: white;
+}
+#puntuacion{
+    color: orangered;
+}
+#record{
+    color: orangered;
+}
